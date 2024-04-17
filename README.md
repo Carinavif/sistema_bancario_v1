@@ -1,2 +1,2 @@
-# sistema_bancario_v1
+# Sistema Bancário Simples em Python
 Projeto de um sistema bancário simples em Python, atividade "criando um Sistema Bancário com Python" da DIO.

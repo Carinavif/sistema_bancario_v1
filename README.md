@@ -1,5 +1,3 @@
-Claro! Aqui está uma versão atualizada do README com emojis adicionados:
-
 ---
 
 # 🏦 Banco Python
